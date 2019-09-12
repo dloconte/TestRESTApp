@@ -40,7 +40,7 @@ namespace TestRESTApp
             }
             else
             {
-                app.UseHsts();
+                //app.UseHsts();
             }
 
             app.UseDefaultFiles();
